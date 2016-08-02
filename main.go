@@ -1,4 +1,4 @@
-package imagesaver
+package imagefromurl
 
 import (
 	"encoding/base64"
